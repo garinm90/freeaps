@@ -1,3 +1,7 @@
+# Work has been moved to a new repo with new updates and unique features :  
+https://github.com/Artificial-Pancreas/iAPS
+
+
 # FreeAPS X
 
 ## Introduction 
